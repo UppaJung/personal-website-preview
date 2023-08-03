@@ -32,3 +32,6 @@ partials/structure/stylesheet.html
 
 # Hugo
 .hugo_build.lock
+
+# Generated resources
+resources/_gen/
