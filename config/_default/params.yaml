@@ -13,9 +13,9 @@ taxonomies:
   tags: tags
 sidebar:
   avatar:
-    enabled: false
+    enabled: true
     local: true
-    src: img/avatar.png
+    src: images/StuartAvatar.webp
 
 homeInfoParams:
     Title: "Stuart Schechter: Mildly-Aggrieved Scientist"
@@ -31,7 +31,9 @@ socialIcons:
   - name: "twitter"
     url: "https://twitter.com/uppajung"
 
+# ShareButtons:  ["linkedin", "twitter","reddit","facebook","whatsapp","telegram"]
 ShowShareButtons: true
+ShareButtons:  ["linkedin", "twitter", "reddit", "facebook"]
 
 editPost:
     URL: "https://github.com/UppaJung/personal-website/tree/main/content"
