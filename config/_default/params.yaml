@@ -34,6 +34,6 @@ socialIcons:
 ShowShareButtons: true
 
 editPost:
-    URL: "https://github.com/uppajung/personal-website/content"
+    URL: "https://github.com/UppaJung/personal-website/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
