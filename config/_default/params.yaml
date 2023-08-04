@@ -19,7 +19,7 @@ sidebar:
 
 homeInfoParams:
     Title: "Stuart Schechter: Mildly-Aggrieved Scientist"
-    Content: (I'm not mad!)
+    Content: <img/> I'm a scientist who critiques scientific culture, a security technologist who debunks security technologies, and a human-subjects researcher who isn't the best people person.
 
 socialIcons:
   - name: "mastodon"

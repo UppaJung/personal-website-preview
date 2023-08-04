@@ -6,3 +6,6 @@ description: Musings of a Mildly-Aggrieved (not mad!) Scientist
 copyright: 2023 Stuart Schechter
 markup:
   safeMode: unsafe
+  goldmark:
+    renderer:
+      unsafe: true

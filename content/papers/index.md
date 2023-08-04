@@ -160,7 +160,7 @@ Minneapolis, Minnesota,
 May 2004.
 
 Stuart E. Schechter and Michael D. Smith.
-[Access for Sale: A New Class of Worm](http://www.eecs.harvard.edu/~stuart/papers/worm03.pdf,
+[Access for Sale: A New Class of Worm](http://www.eecs.harvard.edu/~stuart/papers/worm03.pdf),
 The ACM CCS Workshop on Rapid Malcode (WORM 2003),
 Washington, DC, October 2003.
 
