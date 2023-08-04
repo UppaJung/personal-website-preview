@@ -1,9 +1,0 @@
-{
-  "baseURL": "http://stuartschechter.org/",
-  "languageCode": "en-us",
-  "theme": "ananke",
-  "title": "Stuart Schechter: Mildly-Aggrieved (not mad!) Scientist",
-  "markup": {
-    "safeMode": "unsafe"
-  }
-}

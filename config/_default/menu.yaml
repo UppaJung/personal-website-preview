@@ -1,0 +1,14 @@
+main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: papers
+      name: Papers
+      url: /papers/
+      weight: 30
+    - identifier: about
+      name: About Stuart
+      url: /about/
+      weight: 40
+      

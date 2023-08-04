@@ -1,0 +1,8 @@
+baseURL: /
+languageCode: en-us
+theme: PaperMod
+title: "Mildly-Aggrieved (not mad!) Scientist"
+description: Musings of a Mildly-Aggrieved (not mad!) Scientist
+copyright: 2023 Stuart Schechter
+markup:
+  safeMode: unsafe

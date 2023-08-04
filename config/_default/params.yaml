@@ -1,0 +1,39 @@
+author: Stuart Schechter
+mainSections: posts
+linkedin_url: 'https://www.linkedin.com/in/stuart-schechter/'
+twitter_url: 'https://twitter.com/uppajung'
+mastodon_url: 'https://mastodon.social/@MildlyAggrievedScientist'
+rss_icon: true
+rss_section: posts
+ShowReadingTime: true
+todo:
+  favicon: fixme
+taxonomies:
+  series: series
+  tags: tags
+sidebar:
+  avatar:
+    enabled: false
+    local: true
+    src: img/avatar.png
+
+homeInfoParams:
+    Title: "Stuart Schechter: Mildly-Aggrieved Scientist"
+    Content: (I'm not mad!)
+
+socialIcons:
+  - name: "mastodon"
+    url: "https://mastodon.social/@MildlyAggrievedScientist"
+  - name: "github"
+    url: "https://github.com/uppajung"
+  - name: "linkedin"
+    url: "https://www.linkedin.com/in/stuart-schechter/"
+  - name: "twitter"
+    url: "https://twitter.com/uppajung"
+
+ShowShareButtons: true
+
+editPost:
+    URL: "https://github.com/uppajung/personal-website/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
