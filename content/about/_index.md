@@ -16,7 +16,7 @@ I'm a scientist who critiques scientific culture, a security technologist who de
 
 I'm currently an `'Associate\0'` at Harvard's School of Engineering and Applied Sciences[^null-terminal] ([institutional webpage](https://seas.harvard.edu/person/stuart-schechter)and also work on [DiceKeys](https://dicekeys.com). I was formerly at Microsoft Research and MIT Lincoln Laboratory.
 
-[^jesus]: if you have but chance to guess a US account's *favorite historical person*, the [data](http://research.microsoft.com/pubs/79594/oakland09.pdf) suggest you put your faith in 'jesus'.
+[^jesus]: if you have but one chance to guess a US account's *favorite historical person*, the [data](http://research.microsoft.com/pubs/79594/oakland09.pdf) suggest you put your faith in 'jesus'.
 
 
 [^null-terminal]: The `\0` is not a typo, but geek (c language notation) for "there's nothing missing after the word 'Associate'". I'm not a Professor.
