@@ -1,5 +1,5 @@
 ---
-title: About Stuart
+title: About Stuart Schechter
 layout: single
 ---
 
@@ -10,11 +10,13 @@ layout: single
 <!-- {{< figure src="StuartsSelfieOn20230804.webp" caption="Yikes" alt="A picture of Stuart" width="min(30vw,20vh)" >}} -->
 
 
-I'm a scientist who critiques scientific culture, a security technologist who debunks security technologies, and a human-subjects researcher who isn't the best people person. This doesn't make me very popular… 
+I'm a scientist who criticizes the how scientists conduct ourselves, a security technologist who debunks security technologies, and a human-subjects researcher who isn't the best people person. This doesn't make me very popular… 
 
 …at least until people learn that my research debunking common security practices is part of the reason why they no longer have to answer so many 'security' questions[^jesus], why their employer no longer asks them to reset their password every 90 days, and why many websites no longer care if your password has digits, punctuation, or uppercase letters.
 
-I'm currently an `'Associate\0'` at Harvard's School of Engineering and Applied Sciences[^null-terminal] ([institutional webpage](https://seas.harvard.edu/person/stuart-schechter)and also work on [DiceKeys](https://dicekeys.com). I was formerly at Microsoft Research and MIT Lincoln Laboratory.
+I'm currently engaged on my war on social stratification in science from a desk at the School of Engineering and Applied Sciences at Harvard,[^irony] where I am an 'Associate<span style="font-family:monospace">\0</span>'.[^null-terminal] I also invented and work on [DiceKeys](https://dicekeys.com). I was formerly at Microsoft Research and MIT Lincoln Laboratory.
+
+[^irony]: The irony is not lost on me.
 
 [^jesus]: if you have but one chance to guess a US account's *favorite historical person*, the [data](http://research.microsoft.com/pubs/79594/oakland09.pdf) suggest you put your faith in 'jesus'.
 
