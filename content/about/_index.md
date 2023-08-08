@@ -12,9 +12,9 @@ layout: single
 
 I'm a scientist who criticizes the how scientists conduct ourselves, a security technologist who debunks security technologies, and a human-subjects researcher who isn't the best people person. This doesn't make me very popular… 
 
-…at least until people learn that my research debunking common security practices is part of the reason why they no longer have to answer so many 'security' questions[^jesus], why their employer no longer asks them to reset their password every 90 days, and why many websites no longer care if your password has digits, punctuation, or uppercase letters.
+…at least until people learn that my research debunking common security practices is part of the reason why they no longer have to answer so many 'security' questions,[^jesus] why their employer no longer asks them to reset their password every 90 days, and why many websites no longer care if your password has digits, punctuation, or uppercase letters.
 
-I'm currently engaged on my war on social stratification in science from a desk at the School of Engineering and Applied Sciences at Harvard,[^irony] where I am an 'Associate<span style="font-family:monospace">\0</span>'.[^null-terminal] I also invented and work on [DiceKeys](https://dicekeys.com). I was formerly at Microsoft Research and MIT Lincoln Laboratory.
+I'm currently engaged on my war on social stratification in science from a desk at the School of Engineering and Applied Sciences at Harvard,[^irony] where I am an 'Associate<span style="font-family:monospace">\0</span>'.[^null-terminal] I continue to work on ensuring that security doesn't backfire, both through research and building [DiceKeys](https://dicekeys.com) (US Patent [11,438,182 B2](https://patentsgazette.uspto.gov/week36/OG/html/1502-1/US11438182-20220906.html)). I formerly worked at Microsoft Research and MIT Lincoln Laboratory.
 
 [^irony]: The irony is not lost on me.
 
