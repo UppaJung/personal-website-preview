@@ -7,11 +7,16 @@ draft: true
 
 The most successful dating apps are those that can convince the most users to entrust them with our locations, personal photos, physical traits, ages, chemical vices, sexual desires, religious beliefs, and the messages we exchange with prospective sexual partners. They need to make us feel safe doing so.
 
-But keeping you safe and making you feel safe are two distinct, and sometimes incompatible, goals. The safety advice offered by [Tinder](https://policies.tinder.com/safety/intl/en/) [📄](dating-tips-archived-2023-08-10/tinder.jpeg), [Bumble](https://bumble.com/en-us/the-buzz/safety) [📄](dating-tips-archived-2023-08-10/bumble.jpeg), [Hinge](https://hingeapp.zendesk.com/hc/en-us/articles/360007194774-Safe-Dating-Advice) [📄](dating-tips-archived-2023-08-10/hinge.jpeg), [Grindr](https://help.grindr.com/hc/en-us/articles/1500009290262-Safety-tips) [📄](dating-tips-archived-2023-08-10/grindr.jpeg), [Feeld](https://support.feeld.co/hc/en-gb/articles/9406785773084-What-do-I-do-if-someone-asks-me-to-continue-the-conversation-in-a-different-app-) [📄](dating-tips-archived-2023-08-10/feeld.jpeg), and others directs your attention to the unavoidable risks of interacting prospective partners online and in person, and through omission directs your attention away from the risks introduced by using the app to find those prospective partners.[^tinder-hinge-safety-tips] [^safety-tips-bumble]
+But *keeping you safe* and *making you feel safe* are often incompatible goals. The safety advice offered by [Tinder](https://policies.tinder.com/safety/intl/en/) [📄](dating-tips-archived-2023-08-10/tinder.jpeg), [Bumble](https://bumble.com/en-us/the-buzz/safety) [📄](dating-tips-archived-2023-08-10/bumble.jpeg), [Hinge](https://hingeapp.zendesk.com/hc/en-us/articles/360007194774-Safe-Dating-Advice) [📄](dating-tips-archived-2023-08-10/hinge.jpeg), [Grindr](https://help.grindr.com/hc/en-us/articles/1500009290262-Safety-tips) [📄](dating-tips-archived-2023-08-10/grindr.jpeg), [Feeld](https://support.feeld.co/hc/en-gb/articles/9406785773084-What-do-I-do-if-someone-asks-me-to-continue-the-conversation-in-a-different-app-) [📄](dating-tips-archived-2023-08-10/feeld.jpeg), and others directs your attention to the unavoidable risks of interacting prospective partners online and in person. Through omission, the advice cleverly directs your attention away from the risks introduced by the apps themselves.[^tinder-hinge-safety-tips] [^safety-tips-bumble]
 
 What do you need to know to stay safe that they are not telling you?
 
-**1. You should assume everything you share with dating apps, every action you take, and every message you send will eventually become public.**
+
+**1. You will need to take action to prevent your dating app from sharing your profile when you travel to places you don't want it shared in.**
+
+Dating apps are much more promiscuous in sharing our profiles than many of us might prefer. When we travel, they share our profiles with those in our new location without asking us if we're interested in meeting people in these locations, or even ensuring we we are aware that they have started sharing there. Perhaps their designers failed to anticipate that we might not want to offer ourselves up to nearby potential partners during a 30-minute layover in Salt Lake City (Vegas…maybe?). If you are open about parts your identity at home but not elsewhere, you should be especially careful not to let your app out you by sharing your profile while traveling to places you would not want it shared. Some apps encourage you to pay for premium features to prevent being travel outed (or *trouted*). Unless your app provides clear instructions to ensure you won't be *trouted*, the safest option may be to uninstall it while traveling.
+
+**2. You should assume everything you share with dating apps, every action you take, and every message you send will eventually become public.**
 
 Dating apps store everything you share with them and everything you do in centralized databases and servers (remote computers). The data they store includes your profile, your likes and dislikes, and the messages you share with others. These databases also store the data of all the app's other users, making them ripe targets for compromise by foreign intelligence services, ransomware gangs, and other extortionists who might exploit our sexual desires, preferences, and communications.
 
@@ -19,32 +24,31 @@ Most dating were built by scrappy startups with threadbare security teams, forbi
 
 [^security-priorities-at-tinder]: Consider, for example, that Tinder, which launched in 2012, didn't even implement the rudimentary step of encrypting the photos sent to the app from its servers until [2018](https://www.theverge.com/2018/6/29/17519234/tinder-encrypted-profile-photos-senator-ron-wyden) (after it was merged into the more-mature Match Group).
 
-Sadly, it doesn't have to be this way. If dating apps recognized the possibility that their servers might be breached they could do a lot more to protect your data.
-But since the competition all confidently present themselves as secure, it's hard for apps to even bring up the possibility that they might not be perfectly secure. (Perhaps we should call this toxic appulinity.)
+Sadly, it doesn't have to be this way. If dating apps recognized the possibility that their servers might be breached they could provide better advice and even do more to protect your data. But since the competition all confidently present themselves as secure, it's hard for apps to even bring up the possibility that they might not be perfectly secure. (Perhaps we should call this toxic appulinity.)
 
-Since their servers might be breached, dating apps should offer secure (end-to-end encrypted) messaging. This is the technology used to to protect conversations on iMessage, WhatsApp, Signal, Skype, Facebook Messenger, and others.
+**3. Your dating app could expose your personal biases, even those you may not yet know you have.**
+
+When dating apps record your actions, they often store more than just who you like and don't like, but how much time you spent looking at each part of the profile and how long it took you to make a decision.[^dating-app-records] In the wrong hands, that data could be used to quantify your explicit or implicit preferences about others' race, body shape, disability status, and other aesthetic features discernable from photos, as well as their occupation, religion, and other demographics available from the text content.[^implicit-association-test] Alas, there's not much you can do about this if you choose to use a dating app.
+
+Were apps willing to consider the possibility that their servers might be breached, they might limit the resolution of the data they store or experiment with privacy-preserving data structures. Alas, they seem more focused on collecting and analyzing every possible morsel of data to try to find ways to make their apps more successful.
+
+**4. Until dating apps offer secure messaging, you'll need to move to another app to reduce the risk that your conversations will become public.**
+
+Dating apps should offer secure messaging to protect your conversations from being eavesdropped on even if their servers are breached. They fail to do this even though most messaging apps offer secure (end-to-end encrypted) messaging, including iMessage, WhatsApp, Signal, Skype*, Facebook Messenger*, and others.[^e2e-optional]
+
+[^e2e-optional]: Skype and Facebook Messenger offer end-to-end encryption, but users should be aware that it is only on if they turn it on.
 
 Since dating apps don't offer secure messaging, anyone with access to the app's servers can eavesdrop on, and store, your every explicit (and mundane) word, picture, audio, and video content. Dating apps discourage you from moving your conversations to secure messaging platforms because they say they need to eavesdrop to protect you from scams and abuse. But secure messaging does not have to be incompatible with protecting users from scams and abuse. Dating apps could provide secure messaging and give users the power to share a conversation's decryption keys when reporting abuse, giving the app's safety team the evidence they need. Dating apps could be written to analyze conversations for scams privately, on your device, without sending the data to a server. This wouldn't detect all scams and abuse, but it would be able to warn of common ones. Failing to provide secure messaging just gives scammers one more excuse to convince victims to take their conversations off app, making it harder to detect scams and abuse.
-
-**2. Until dating apps offer secure messaging, you'll need to move to another app to reduce the risk that your conversations will become public.**
 
 Keep in mind that some secure messaging apps, including WhatsApp or Signal, require you to share your phone number to connect with a conversation partner, and your phone number may be enough to get your name, address, and a slew of other information from data brokers. You may want to consider a messaging app that does not require you to share your phone number (e.g., Skype[^skype]), though these are among the least popular and others may be less receptive to using them.  You may also want to consider using a service like [Kanary](https://www.kanary.com/) to understand what information data brokers store about you, demand that the (legally-compliant ones) remove that information, and make it harder for others to use your phone number to stalk you.
 
 [^skype]: Skype [doesn't require a phone number](https://support.skype.com/en/faq/FA34942/how-are-my-contact-details-used-in-skype) but [requires extra work to turn on end-to-end encryption](https://support.skype.com/en/faq/FA34824/what-are-skype-private-conversations).
 
-**3. You should know that using a dating app could expose your personal biases, even those you may not be aware of or believe you have.**
 
-Dating apps record *telemetry* of your actions, not just who you like and don't like, but often when you scrolled and how long you looked at each profile before making a decision.[^dating-app-records] That data could be used to quantify your explicit or implicit preferences about others' race, body shape, disability status, and other aesthetic features discernable from photos, as well as their occupation, religion, and other demographics available from the text content.[^implicit-association-test]
-
-Were apps willing to consider the possibility that their servers might be breached, they might limit the resolution of the data they store or experiment with privacy-preserving data structures. Alas, they seem more focused on collecting and analyzing every possible morsel of data to try to find ways to make their apps more successful.
 
 [^implicit-association-test]: For example, one could use as inputs to a prediction model the values of the above mentioned features, whether they were exposed before the user made a decision, and the amount of time they were exposed before the decision, and whether they were visible at the time of the decision.
 
-**4. You should be aware that your profile may be shared with people in locations and contexts you may not have anticipated.**
-
-Dating apps are much more promiscuous in sharing our profiles than many of us might prefer. When we travel, they share our profiles with those in our new location without asking us if we're interested in meeting people in these locations, or getting our consent. If you are open about parts your identity at home but not elsewhere, you should be careful not to let your app out you when traveling. Some encourage you to pay for premium features to avoid a travel outing (or *trouting*). Unless your app provides explicit instructions on how to prevent it from sharing your location while you travel, the safest option may be to uninstall them while traveling.
-
-In summary, don't let dating apps fool you into thinking the only safety risks of using an app come from interacting with other users. The risks begin the moment you start sharing information with them. And, until dating apps are more forthcoming about the safety risks of using them, you're own your own to protect yourself.
+**In summary**, don't let dating apps fool you into thinking the only safety risks of using an app come from interacting with other users. The risks begin the moment you start sharing information with them. And, until dating apps are more forthcoming about the safety risks of using them, you're own your own to protect yourself.
 
 Be safe out there.
 
