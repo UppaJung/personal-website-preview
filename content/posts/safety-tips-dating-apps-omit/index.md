@@ -10,7 +10,7 @@ But *making us feel safe* and *keeping us safe* and are often incompatible goals
 
 **What safety tips are dating apps withholding?**
 
-**1. It us *your* job to hide your profile in places you would not want it advertised.**
+**1. It is *your* job to hide your profile in places you would not want it advertised.**
 
 Since dating apps want to have as many profiles available to display at all times and locations, they are much more promiscuous in sharing your profiles than you may want. When you travel, many will share your profiles with those around you without asking you if you want in meeting people in these locations, often without notifying you that your profile is now being shared in a new locale. Their designs intentionally ignore the possibility that you might not want to advertise yourself to other users who happen to be close by during a 28-minute layover in Salt Lake City (90 minutes at LAX…maybe?).
 
