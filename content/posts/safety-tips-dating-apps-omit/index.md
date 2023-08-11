@@ -16,7 +16,7 @@ Since dating apps want to have as many profiles available to display at all time
 
 You'll need to be especially careful to reign in their promiscuity if you are traveling somewhere you would not want your profile advertised: maybe it's not safe to be out about a certain part of your identity where you're going; maybe you're visiting friends and family who you are not yet out to (and who might use the same app); maybe you're going someplace strictly professionally; or maybe you've kept admirers at your destination at bay by suggesting that you're not open to new relationships. To avoid being travel outed (or *trouted*), you will need to [disable discovery in Tinder](https://www.help.tinder.com/hc/en-us/articles/6956972185229-Delete-Your-Tinder-Account), [pause in Hinge](https://hingeapp.zendesk.com/hc/en-us/articles/360012595653-Can-I-temporarily-pause-my-Hinge-account-), [snooze in Bumble](https://bumble.com/en-us/the-buzz/bumble-snooze-mode), or [turn of *show me* in Feeld](https://support.feeld.co/hc/en-gb/articles/9406794134172-How-do-I-hide-my-profile-from-other-Feeld-members-). (Sadly, if Grindr has such a feature, it's not easily discoverable via a web search.)
 
-**2. You should assume everything you share with dating apps, every action you take, and every message you send will eventually become public.**
+**2. Assume anything you share on a dating app might become public.**
 
 Dating apps store everything you share with them, and most everything they watch you do, in centralized databases and servers—big banks of computers in data centers along with the data of millions of other users. Storing so many people's desires and conversations in one repository makes it a ripe target for foreign intelligence services, ransomware gangs, and other extortionists who might exploit it.
 
@@ -24,7 +24,7 @@ Most dating were built by scrappy startups with threadbare security teams, forbi
 
 Sadly, it doesn't have to be this way. If dating apps recognized the possibility that their servers might be breached they could provide better advice and even do more to protect your data. But since the competition all confidently present themselves as secure, it's hard for apps to even bring up the possibility that they might not be perfectly secure. (Perhaps we should call this *toxic appulinity*.)
 
-**3. Be aware that a breach could expose your personal biases, even those you may not yet know you have.**
+**3. Using a dating app could expose personal biases even you don't know you have.**
 
 When dating apps record your actions, they often store more than just who you like and don't like, but how much time you spent looking at each part of the profile and how long it took you to make a decision.[^dating-app-records] In the wrong hands, that data could be used to quantify your explicit or implicit preferences about others' race, body shape, disability status, and other aesthetic features discernable from photos, as well as their occupation, religion, and other demographics available from the text content.[^implicit-association-test] Alas, there's not much you can do about this if you choose to use a dating app.
 
