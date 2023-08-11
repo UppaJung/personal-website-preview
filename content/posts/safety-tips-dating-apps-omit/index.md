@@ -1,5 +1,5 @@
 ---
-title: The Safety Tips Dating Apps Don't Offer
+title: The Safety Tips Dating Apps Omit
 date: 2023-08-11
 lastmod: 2023-08-11
 ---
