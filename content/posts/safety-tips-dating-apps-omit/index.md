@@ -30,7 +30,7 @@ When dating apps record your actions, they often store more than just who you li
 
 Were apps willing to consider the possibility that their servers might be breached, they might limit the resolution of the data they store or experiment with privacy-preserving data structures. Alas, in the absence of regulation, most will be focused on collecting and analyzing every possible morsel of data to try to find ways to better compete with each other.
 
-**4. Until dating apps offer secure messaging, you'll need to move to another app to reduce the risk that your conversations will become public.**
+**4. The only way to avoid eavesdropping is to move to a secure messaging app.**
 
 Secure (end-to-end encrypted) messaging is now a feature of such messengers as iMessage, WhatsApp, Signal, Skype*, Facebook Messenger*, and others.[^e2e-optional] Dating apps do not offer secure messaging, so if their servers are breached, attackers may gain access to every message and conversation.
 
