@@ -30,6 +30,7 @@ defaults:
 jobs:
   # Build job
   build:
+    if: github.repository == 'UppaJung/personal-website'
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.116.1
@@ -67,6 +68,7 @@ jobs:
 
   # Deployment job
   deploy:
+    if: github.repository == 'UppaJung/personal-website'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
