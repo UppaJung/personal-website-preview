@@ -1,7 +1,7 @@
 ---
 title: The Safety Tips Dating Apps Omit
-date: 2023-08-11
-lastmod: 2023-08-11
+date: 2023-08-13
+lastmod: 2023-08-13
 ---
 
 Dating apps require us to entrust them with our whereabouts, desires, personal photos, physical traits, age, chemical vices, beliefs, and the contents of conversations we will use to woo prospective partners. They provide safety advice to help us overcome our hesitations about sharing all this information with them.
@@ -26,7 +26,7 @@ Sadly, it doesn't have to be this way. If dating apps recognized the possibility
 
 **3. Using a dating app could expose personal biases even you don't know you have.**
 
-When dating apps record your actions, they often store more than just who you like and don't like, but also how much time you spent looking at each part of the profile and how long it took you to make a decision.[^dating-app-records] In the wrong hands, that data could be used to quantify your explicit or implicit preferences about others' race, body shape, disability status, and other aesthetic features discernable from photos, as well as their occupation, religion, and other demographics available from the text content.[^implicit-association-test] They could publish this analysis to embarrass you or use what they learn to target you. Alas, there's not much you can do about this if you choose to use a dating app.
+When dating apps record your actions, they often store more than just who you like and don't like, but also how much time you spent looking at each part of the profile and how long it took you to make a decision.[^dating-app-records] In the wrong hands, that data could be used to quantify your explicit or implicit preferences about others' race, body shape, disability status, and other aesthetic features discernible from photos, as well as their occupation, religion, and other demographics available from the text content.[^implicit-association-test] They could publish this analysis to embarrass you or use what they learn to target you. Alas, there's not much you can do about this if you choose to use a dating app.
 
 Were apps willing to consider the possibility that their servers might be breached, they might limit the resolution of the data they store or experiment with privacy-preserving data structures. Alas, in the absence of regulation, most will be focused on collecting and analyzing every possible morsel of data to try to find ways to better compete with each other.
 
@@ -46,9 +46,9 @@ You're on your own to protect yourself. Be safe out there.
 
 ---
 
-Be among the first to hear about Stuart Schechter's next article by following [@MildlyAggrievedScientist@mastodon.social](https://mastodon.social/@MildlyAggrievedScientist).
+{{< subscribe_snarky >}}
 
-Stuart would like to thank Craig Agricola for corrections and suggestions on earlier drafts of this article.
+Many thanks to Craig Agricola for corrections and suggestions on earlier drafts.
 
 
 [^tinder-hinge-safety-tips]: For example, Tinder and Hinge, which offer the the same safety tips as both are owned and operated by the Match Group.
