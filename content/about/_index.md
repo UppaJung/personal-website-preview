@@ -16,6 +16,8 @@ I'm a scientist who criticizes the how scientists conduct ourselves, a security 
 
 I'm currently engaged on my war on social stratification in science from a desk at the School of Engineering and Applied Sciences at Harvard,[^irony] where I am an 'Associate<span style="font-family:monospace">\0</span>'.[^null-terminal] I continue to work on ensuring that security doesn't backfire, both through research and building [DiceKeys](https://dicekeys.com) (US Patent [11,438,182 B2](https://patentsgazette.uspto.gov/week36/OG/html/1502-1/US11438182-20220906.html)). I formerly worked at Microsoft Research and MIT Lincoln Laboratory.
 
+{{< subscribe >}}
+
 [^irony]: The irony is not lost on me.
 
 [^jesus]: if you have but one chance to guess a US account's *favorite historical person*, the [data](http://research.microsoft.com/pubs/79594/oakland09.pdf) suggest you put your faith in 'jesus'.
