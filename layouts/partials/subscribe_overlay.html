@@ -1,0 +1,59 @@
+<!-- Stuart's subscription overlay -->
+<style>
+div.subscription-overlay-container {
+   position: fixed;
+   /* top: 75%; */
+   left: 0;
+	 bottom: 0;
+   /* height: 25vh; */
+	 padding-top: 2rem;
+	 padding-bottom: 2rem;
+   width: 100vw;
+   z-index: 255;
+   background-color: rgba(0,0,0,0.9);
+   display: none;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+body:not(.dark) div.subscription-overlay-container {
+	background-color: rgba(255,255,255,0.9);
+}
+div.subscription-overlay-container a {
+    color: var(--secondary);
+    /* box-shadow: 0 1px 0 var(--primary); */
+}
+</style>
+<div id="subscription_overlay" class="subscription-overlay-container">
+	<button style="position: absolute; top: 0; align-self: flex-end; margin-right: 2rem; font-family: monospace; font-size: 3rem;"
+		onclick="turnOffSubscribe();"
+	>✖</button>
+	<div style="padding-left: 10vw; padding-right: 10vw;"> {{ partial "subscribe" }}</div>
+</div>
+<script>
+	function turnOffSubscribe() {
+		document.getElementById("subscription_overlay").style.setProperty("display","none");
+		localStorage.setItem('subscription_overlay_dismissed', new Date().toUTCString());
+	}
+	document.addEventListener('DOMContentLoaded', () => {
+		if ( new Date(localStorage.getItem('subscription_overlay_dismissed') ?? 0).getTime() >
+		 (Date.now() - 1000 * 60 * 60 * 24 * 90 ) || 
+			! window.location.pathname.startsWith('/posts') 
+		) {
+			// Leave subscribe overlay invisible.
+		} else {
+			// Show subscribe request anywhere in posts/ every 90 days
+			const scrollListener = () => {
+				const fractionRevealedAtBottom = (window.scrollY + window.innerHeight) / document.body.scrollHeight;
+				console.log(`Scroll bottom ${window.scrollY} =>  ${100 * fractionRevealedAtBottom}%`)
+				if (fractionRevealedAtBottom > 0.6) {
+					subscribeOverlayOn = true;
+					document.getElementById("subscription_overlay").style.setProperty("display","flex");
+					window.removeEventListener('scroll', scrollListener);
+				}
+
+			}
+			window.addEventListener('scroll', scrollListener);
+		}
+	});
+</script>
