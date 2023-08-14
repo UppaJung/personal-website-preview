@@ -2,6 +2,7 @@
 title: What We Each Can Do to Fix Peer Review
 date: 2023-08-13
 lastmod: 2023-08-13
+draft: true
 ---
 
 The most objective and scientifically valuable forms of peer review do not require us to score others' research work, rank it, or decide whether it is worthy of publication. Yet, the most broadly available form of peer review, publication review, makes scoring central to the detriment of objectivity. Reforming peer review may seem like a collective-action problem, but it need not be: any one of us can make science more objective, equitable, and efficient by making ourselves as available to conduct *scoreless* peer review as we are for publication review.
