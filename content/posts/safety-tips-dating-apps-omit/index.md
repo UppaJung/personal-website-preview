@@ -1,7 +1,7 @@
 ---
 title: The Safety Tips Dating Apps Omit
-date: 2023-08-13
-lastmod: 2023-08-13
+date: 2023-08-14
+lastmod: 2023-08-14
 ---
 
 Dating apps require us to entrust them with our whereabouts, desires, personal photos, physical traits, age, chemical vices, beliefs, and the contents of conversations we will use to woo prospective partners. They provide safety advice to help us overcome our hesitations about sharing all this information with them.
@@ -54,7 +54,7 @@ Many thanks to Craig Agricola for corrections and suggestions on earlier drafts.
 [^tinder-hinge-safety-tips]: For example, Tinder and Hinge, which offer the the same safety tips as both are owned and operated by the Match Group.
     They divide their safety tips into three categories: 'Online Safety', which (aside from picking a password) covers the risks posed by online prospective partners; 'Meeting in Person', for when the prefix online no longer applies; and 'Sexual Health', for when the prefix 'prospective' no longer applies. The safety implications of putting your profile online and sharing it wherever you are is notably absent.
 
-[^safety-tips-bumble]: A notable exception is Bumble's article on [What You Need to Know About Safety on Bumble](https://bumble.com/en-us/the-buzz/safety) [Bumble](https://bumble.com/en-us/the-buzz/safety) [📄](dating-tips-archived-2023-08-10/bumble.jpeg), which does advise caution in deciding how much detail to share in one's profile:
+[^safety-tips-bumble]: A notable exception is Bumble's article on [What You Need to Know About Safety on Bumble](https://bumble.com/en-us/the-buzz/safety) [📄](dating-tips-archived-2023-08-10/bumble.jpeg), which does advise caution in deciding how much detail to share in one's profile:
     > We also encourage members of our community to be cautious when deciding what personal information to share in your profile. It’s absolutely fine to list your occupation as “account manager” at “tech company” rather than sharing details. Omitting photos that show you in a specific location you frequent (e.g. your go-to dog park or local bar) is another way to practice safer online dating.
     
     Still, none of their examples suggest not sharing information at all, and they do little to help users explain who will be able to access the information that the user shared or explain why sharing detailed information might be risky.
