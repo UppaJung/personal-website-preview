@@ -35,3 +35,5 @@ partials/structure/stylesheet.html
 
 # Generated resources
 resources/_gen/
+
+/ignore/
