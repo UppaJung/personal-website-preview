@@ -1,7 +1,7 @@
 ---
 title: What We Each Can Do to Fix Peer Review
-date: '2023-08-03'
-lastmod: '2023-08-03'
+date: 2023-08-13
+lastmod: 2023-08-13
 draft: true
 ---
 
