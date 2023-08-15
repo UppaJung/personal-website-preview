@@ -16,7 +16,7 @@ I'm a scientist who criticizes the how scientists conduct ourselves, a security 
 
 I'm currently engaged on my war on social stratification in science from a desk at the School of Engineering and Applied Sciences at Harvard,[^irony] where I am an 'Associate<span style="font-family:monospace">\0</span>'.[^null-terminal] I continue to work on ensuring that security doesn't backfire, both through research and building [DiceKeys](https://dicekeys.com) (US Patent [11,438,182 B2](https://patentsgazette.uspto.gov/week36/OG/html/1502-1/US11438182-20220906.html)). I formerly worked at Microsoft Research and MIT Lincoln Laboratory. I served nine years as a Resident Tutor in Harvard's Leverett House.
 
-I am available for [assistive peer review](/assistive-peer-review) on topics including human factors in security (aka usable security) and more generally in evaluating novel experimental methodologies for human subjects experiments.
+I am available for [assistive peer review](/assistive-peer-review/) on topics including human factors in security (aka usable security) and more generally in evaluating novel experimental methodologies for human subjects experiments.
 
 {{< subscribe >}}
 
