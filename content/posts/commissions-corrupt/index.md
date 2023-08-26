@@ -28,10 +28,9 @@ The extent to which industry has captured the media via commissions is evident f
 
 To restore our trust, news organizations should stop pretending that editorial independence is sufficient to prevent commissions from corrupting coverage. Those that choose to keep collecting commissions should disclose every penny they receive and where it comes from. Investigative journalists should follow the money that is not disclosed. A good place to start would be the tens of millions of dollars that may have been paid to those who recommended LastPass.[^money-flow]
 
-
 ---
 
-#### Acknowledgements
+{{< subscribe_snarky >}}
 
 Many thanks to Cormac Herley, Wladimir Palant, and Bruce Schneier for suggestions on earlier drafts.
 
