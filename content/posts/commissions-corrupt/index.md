@@ -28,10 +28,9 @@ The extent to which industry has captured the media via commissions is evident f
 
 To restore our trust, news organizations should stop pretending that editorial independence is sufficient to prevent commissions from corrupting coverage. Those that choose to keep collecting commissions should disclose every penny they receive and where it comes from. Investigative journalists should follow the money that is not disclosed. A good place to start would be the tens of millions of dollars that may have been paid to those who recommended LastPass.[^money-flow]
 
-
 ---
 
-#### Acknowledgements
+{{< subscribe_snarky >}}
 
 Many thanks to Cormac Herley, Wladimir Palant, and Bruce Schneier for suggestions on earlier drafts.
 
@@ -55,4 +54,4 @@ Many thanks to Cormac Herley, Wladimir Palant, and Bruce Schneier for suggestion
 
 [^wired-notes-security]: To the credit of Wired, author Lily Hay Newman did mention as early as [2018](https://web.archive.org/web/20200612063257/https://www.wired.com/story/password-manager-autofill-ad-tech-privacy/) that “The main drawback to LastPass is its mixed security track record—the product has had a number of high-profile, critical bugs and there have even been some data breaches. Overall, LastPass has weathered these storms, but it's worth noting.” (The act of “weathering the storms” does not appear to have included fixing the problems reported.)
 
-[^money-flow]: The final [SEC Form 10-Q for the six months ending June 30, 2020 of LogMeIn](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001420302/000156459020034298/logm-10q_20200630.htm), the developer of LastPass, reported sales and marketing expenses of \$235.5 million, of which \$92.2 million were bucketed as marketing expenses separate from the sales and marketing personnel, professional services, credit card transaction fees, and so on (the other \$147.7 million). The SEC report does not break down these expenses between LogMeIn's flagship LastPass and other products, and between affiliate commissions and direct advertising. Yet, even if LastPass commissions represented 10\% of that budget, it would mean that over ten million dollars of commissions were paid to those recommending LastPass in the year before the breach alone.
+[^money-flow]: The final [SEC Form 10-Q for the six months ending June 30, 2020 of LogMeIn](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001420302/000156459020034298/logm-10q_20200630.htm), the developer of LastPass, reported sales and marketing expenses of \$235.5 million, of which \$92.2 million were bucketed as marketing expenses separate from the sales and marketing personnel, professional services, credit card transaction fees, and so on (the other \$147.7 million). The SEC report does not break down these expenses between LogMeIn's flagship LastPass and other products, and between affiliate commissions and direct advertising. Yet, even if LastPass commissions represented 10\% of that budget, it would mean that over ten million dollars of commissions were paid to those recommending LastPass in the year before the breach alone. LastPass [offered](references/archived-as-image/lastpass-affiliate-2022-01-02.jpeg) *minimum* 25% commissions competitor 1Password [offers](references/archived-as-image/1password-affiliate-2023-08-26.jpeg) a minimum of $2 per customer in addition to 25% of the customer's initial subscription.
