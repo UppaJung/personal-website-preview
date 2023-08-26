@@ -1,8 +1,10 @@
 ---
 title: The Safety Tips Dating Apps Omit
-date: 2023-08-14
-lastmod: 2023-08-14
+date: 2023-08-26
+lastmod: 2023-08-26
 ---
+
+**Draft: Work in progress**
 
 Dating apps require us to entrust them with our whereabouts, desires, personal photos, physical traits, age, chemical vices, beliefs, and the contents of conversations we will use to woo prospective partners. They provide safety advice to help us overcome our hesitations about sharing all this information with them.
 
