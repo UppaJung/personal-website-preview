@@ -1,0 +1,73 @@
+{{ if (.Get "url")}}
+<style>
+.response-replies {
+  margin-left: 0.5rem;
+}
+.comments-container {
+  max-height: 40vw;
+  overflow-y: scroll;
+}
+.comments-container, .response-content, .response-replies {
+  margin-top: 0px;
+  padding-top: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+}
+.response-author, .response-content, .response-replies {
+  padding-left: 0.5rem;
+}
+.response-author {
+  width: fit-content;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+  padding-right: 1rem;
+  margin: 0;
+  margin-top: 0.25rem;
+  background-color: rgba(240, 240, 255, 1);
+}
+body.dark .response-author {
+  background-color: rgba(16, 16, 32, 1);
+}
+/* .response-author-name {
+} */
+.response-author-handle {
+  margin-left: 1rem;
+  text-decoration: none;
+  box-shadow: none;
+}
+.response-content p {
+  margin-top: 0;
+  margin-bottom: 0.1rem;
+}
+.response-content a {
+  background-color: rgba(128,128,128,.15);
+  box-shadow: none;
+  text-decoration: none;
+}
+.response-author a {
+  background-color: rgba(128,128,128,.15);
+  box-shadow: none;
+  text-decoration: none;
+}
+.fediverse-host-name {
+  color: rgba(128,128,128,.5);
+}
+</style>
+<h4>
+Comment via my accompanying <a href="{{.Get "url"}}" target="_blank">fediverse post</a>.
+</h4>
+
+<div class="comments-container">
+  <div class="response" data-status-url="{{.Get "url"}}">
+    <div class="response-author" data-response-type="author">
+      <span class="response-author-name" data-response-type="author-name"></span>
+      <span class="response-author-handle" data-response-type="author-handle"></span>
+    </div>
+    <div class="response-content" data-response-type="content"></div>
+    <div class="response-replies" data-response-type="replies"></div>
+  </div>  
+</div>
+<script src="/fedicomments.js"></script>
+{{end}}
