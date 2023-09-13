@@ -28,4 +28,4 @@ So, if you look in the [code](https://github.com/UppaJung/personal-website/blob/
 
 If there's a post I want to block, I can block it by adding it's status ID to a comma separated list in the `exclude=""` tag.
 
-If you like this approach, I've made the code code under the highly-permissive MIT license. The script is very small and easy to
+If you like this approach, I've made the code code under the highly-permissive MIT license. The script is very small and easy to extend.
