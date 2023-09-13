@@ -34,8 +34,7 @@ Footnotes follow the comment stream.
 
 ---
 
-{{< fedicomments url="https://mastodon.social/@MildlyAggrievedScientist/111046750348583075" >}}
-
+{{< fedicomments url="https://mastodon.social/@MildlyAggrievedScientist/111046750348583075" exclude="" include="" >}}
 
 [^kickbacks]: Brain Lam, who helped pioneer the affiliate recommendations model as the founder of The Wirecutter, originally made the mistake of  referring to affiliate commissions as kickbacks in an [email to Dan Lee, the CEO of NextDesk, in 2014](https://www.xdesk.com/wirecutter-standing-desk-review-pay-to-play-model). The Wirecutter would dispute that it changed reviews because NextDesk didn't pay the kickback, but not the contents of that email. Since I'll be arguing that collecting any form of payments via affiliate links is problematic regardless of the term, I'll use the term "commission" in this article.
 
