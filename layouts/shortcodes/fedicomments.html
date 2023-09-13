@@ -60,7 +60,10 @@ Comment via my accompanying <a href="{{.Get "url"}}" target="_blank">fediverse p
 </h4>
 
 <div class="comments-container">
-  <div class="response" data-status-url="{{.Get "url"}}">
+  <div class="response" data-status-url="{{.Get "url"}}"{{ if (.Get "include")
+}} data-include="{{.Get "include"}}"{{end}}{{ if (.Get "exclude")
+}} data-exclude="{{.Get "exclude"}}"{{end}}{{ if (.Get "max")
+}} data-max="{{.Get "max"}}"{{end}}>
     <div class="response-author" data-response-type="author">
       <span class="response-author-name" data-response-type="author-name"></span>
       <span class="response-author-handle" data-response-type="author-handle"></span>
