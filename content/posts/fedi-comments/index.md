@@ -12,7 +12,7 @@ The solution I threw together is a small JavaScript that copies social media dis
 
 It looks like this:
 
-{{< fedicomments url="https://mastodon.social/@MildlyAggrievedScientist/" exclude="" include="" >}}
+{{< fedicomments url="https://mastodon.social/@MildlyAggrievedScientist/111059142506301880" exclude="" include="" >}}
 
 ### How it works
 
@@ -23,7 +23,7 @@ I compile my personal website with [Hugo](https://gohugo.io/) (and the [PaperMod
 So, if you look in the [code](https://github.com/UppaJung/personal-website/blob/main/content/posts/fedi-comments/index.md) for this blog post you are reading, you'll see a single line that includes the comment stream. So, when I post, I first make the article available online, then I post to Mastodon, then I immediately update the article to link to any replies to the Mastodon post.
 
 ```
-{{ < fedicomments url="https://mastodon.social/@MildlyAggrievedScientist/" exclude="" >}}
+{{ < fedicomments url="https://mastodon.social/@MildlyAggrievedScientist/111059142506301880" exclude="" >}}
 ```
 
 If there's a post I want to block, I can block it by adding it's status ID to a comma separated list in the `exclude=""` tag.
