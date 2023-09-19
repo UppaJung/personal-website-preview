@@ -1,7 +1,7 @@
 ---
 title: How You Can Help Fix Peer Review
-date: 2023-09-13
-lastmod: 2023-09-13
+date: 2023-09-19
+lastmod: 2023-09-19
 ---
 
 Reviewing other's work for the purpose of scoring it does not advance science. Scoring work does not help authors improve it. Scoring does not help a work's audience understand the work, identify its limitations, or evaluate its credibility.
