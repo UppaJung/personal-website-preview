@@ -55,7 +55,16 @@ Rather, scoreless peer review provides authors an alternative to publication rev
 
 ---
 
-Stuart Schechter ([@MildlyAggrievedScientist@mastodon.social](https://mastodon.social/@MildlyAggrievedScientist)) wrote this with suggestions and feedback from  [Joseph Bonneau](https://jbonneau.com/), [Sauvik Das](https://www.hcii.cmu.edu/people/sauvik-das), [Mary L. Gray](https://marylgray.org/), [Cormac Herley](https://cormac.herley.org/), [Jon Howell](https://research.vmware.com/researchers/jon-howell), [Michael D. Smith](https://seas.harvard.edu/person/michael-smith), and [Erin Walk](https://erinwalk.org/).
+{{< subscribe_snarky >}}
+
+**This article benefited from author-assistive peer reviewing by [Joseph Bonneau](https://jbonneau.com/), [Sauvik Das](https://www.hcii.cmu.edu/people/sauvik-das), [Mary L. Gray](https://marylgray.org/), [Cormac Herley](https://cormac.herley.org/), [Jon Howell](https://research.vmware.com/researchers/jon-howell), [Michael D. Smith](https://seas.harvard.edu/person/michael-smith), and [Erin Walk](https://erinwalk.org/).**
+
+
+Footnotes follow the comment stream.
+
+---
+
+{{< fedicomments url="https://mastodon.social/@MildlyAggrievedScientist/111092414807575448" exclude="" include="" >}}
 
 [^evaluating-experiments-by-their-outcomes]: Evaluating experiments by their outcomes encourages authors to highlight those hypotheses that yielded statistically significant results than those that didn't, hypothesize potentially significant results only after seeing data [(HARKing)](./Recommended-Readings.md#harking-hypothesizing-after-the-results-are-known), and to engage in [other irresponsible scientific practices](./Recommended-Readings.md#rein-in-the-four-horsemen-of-irreproducibility).
 
