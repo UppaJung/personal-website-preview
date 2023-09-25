@@ -1,5 +1,5 @@
 ---
-title: Introducing Fedi-Comments
+title: Introducing Fediverse-Comments
 date: 2023-09-13
 lastmod: 2023-09-13
 ---
@@ -16,7 +16,7 @@ It looks like this:
 
 ### How it works
 
-I wrote a script [I call fedi-comments](https://github.com/UppaJung/fedi-comments) that searches the HTML on a page for a template into which comments should be placed. That template will have the URL of a fediverse status that will serve as the root post from which comments will be loaded.
+I wrote a script [I call fediverse-comments](https://github.com/UppaJung/fediverse-comments) that searches the HTML on a page for a template into which comments should be placed. That template will have the URL of a fediverse status that will serve as the root post from which comments will be loaded.
 
 I compile my personal website with [Hugo](https://gohugo.io/) (and the [PaperMod](https://adityatelange.github.io/hugo-PaperMod/) theme), so I added a Hugo shortcode (a macro) that allows me to import a comment feed.  The code is [here](https://github.com/UppaJung/personal-website/blob/main/layouts/shortcodes/fedicomments.html).
 
