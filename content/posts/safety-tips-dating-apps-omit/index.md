@@ -83,3 +83,5 @@ Many thanks to Craig Agricola for corrections and suggestions on earlier drafts.
 [^bumble-trends]: Bumble's privacy policy reveals they also read your messages to "identify topics, sentiments, and trends across our Users" though, of course, safety is their "highest priority".
 
 [^skype]: Skype [doesn't require a phone number](https://support.skype.com/en/faq/FA34942/how-are-my-contact-details-used-in-skype) but [requires extra work to turn on end-to-end encryption](https://support.skype.com/en/faq/FA34824/what-are-skype-private-conversations). You'll want to make sure you create an account that is not linked to an email address that identifies you.
+
+{{< fedicomments url="https://mastodon.social/@MildlyAggrievedScientist/111133866758780616" exclude="" include="" >}}
