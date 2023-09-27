@@ -4,6 +4,15 @@ date: 2023-09-26
 lastmod: 2023-09-26
 ---
 
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-bottom: 1rem;">
+  <div style="background-color: rgba(128, 128, 128, 0.2); border-radius: 0.5rem; padding: 0.5rem; display: flex; flex-direction: column; justify-content: flex-start; align-items: flex-start; max-width: calc(min(80vw,50vh) + 2rem)">
+    <div style="font-size: 0.75rem; font-weight: bold; font-family: sans-serif; line-height: normal;">Before creating that dating profile…</div>
+    <div style="font-family: sans-serif; line-height: normal; font-size: 0.9rem; margin-top: 0.5rem; margin-bottom: 0.5rem;">Consider that you might be travel outed (or <i>trouted</i>)</div>
+    <img src="./Trout.jpeg" alt="The author holding two trout in their paper grocery wrapping." style="display: flex; align-self: center; max-width: calc(min(80vw,50vh)); margin: 0;"
+/>
+  </div>
+</div>
+
 The makers of dating apps mostly present 'safety' as a matter of managing the risks of interacting with matches online and in person, and not the risks of trusting an app to facilitate this process. Whether it's safety guidance of [Tinder](https://policies.tinder.com/safety/intl/en/) [📄](dating-tips-archived-2023-08-10/tinder.jpeg), [Bumble](https://bumble.com/en-us/the-buzz/safety) [📄](dating-tips-archived-2023-08-10/bumble.jpeg), [Hinge](https://hingeapp.zendesk.com/hc/en-us/articles/360007194774-Safe-Dating-Advice) [📄](dating-tips-archived-2023-08-10/hinge.jpeg), [Grindr](https://help.grindr.com/hc/en-us/articles/1500009290262-Safety-tips) [📄](dating-tips-archived-2023-08-10/grindr.jpeg), or [Feeld](https://feeld.co/about/faq#is-online-dating-safe), the advice they offer focuses on these risks that exist whether you use an app or not.[^tinder-hinge-safety-tips] [^safety-tips-bumble] Through omission, they direct your attention away from their promiscuous collection and storage of data about you.
 
 Dating apps require you to entrust them with your whereabouts, desires, personal photos, physical traits, age, chemical vices, beliefs, and the contents of conversations you will use to woo prospective partners. They will keep detailed records of your choices and actions. Any honest discussion of dating app safety requires examining the risks you will take by entrusting these apps with so much information.
