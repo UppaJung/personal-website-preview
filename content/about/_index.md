@@ -19,6 +19,8 @@ I'm currently engaged on my war on social stratification in science from a desk 
 <a id="scoreless-peer-review"></a>
 I am available to conduct [scoreless peer review](/posts/scoreless-peer-review/) of scientific research on topics including human factors in security (AKA usable security) and more generally in evaluating novel experimental methodologies for human subjects experiments.
 
+My preferred pronouns are he/him but I also welcome they.
+
 {{< subscribe >}}
 
 [^irony]: The irony is not lost on me.

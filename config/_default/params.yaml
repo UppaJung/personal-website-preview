@@ -19,7 +19,7 @@ sidebar:
 
 homeInfoParams:
     # Title: "Stuart Schechter: Mildly-Aggrieved Scientist"
-    Content: <img src="/about/StuartsSelfieOn20230804.webp" style="width:min(10vw,10vh);display:block;margin-left:auto;margin-right:auto;"/> I'm *Stuart Schechter*, a scientist who criticizes the how scientists conduct ourselves, a security technologist who debunks security technologies, and a human-subjects researcher who isn't the best people person. This doesn't make me very popular.
+    Content: <img src="/about/StuartsSelfieOn20230804.webp" style="width:min(10vw,10vh);display:block;margin-left:auto;margin-right:auto;"/> I'm *Stuart Schechter*, a scientist who criticizes the how scientists conduct ourselves, a security technologist who debunks security technologies, and a human-subjects researcher who isn't the best people person. This doesn't make me very popular.<br/>My preferred pronouns are he/him but I also welcome they.
 
 socialIcons:
   - name: "mastodon"

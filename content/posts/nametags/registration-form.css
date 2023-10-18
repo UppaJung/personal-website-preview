@@ -1,0 +1,54 @@
+.registration-and-name-tag-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 0;
+	margin:0;
+	margin-bottom: 1rem;
+	border:none;
+}
+.registration-form {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+.radio-group-container {
+	display:flex; flex-direction: column; align-items: flex-start;
+}
+.radio-element-and-label-container {
+	display: flex;
+	flex-direction: row;
+	align-items: baseline;
+	gap: 0.5rem;
+	margin-top: 0.15rem;
+	margin-bottom: 0.15rem;
+}
+.form-input-container {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	border-color: rgb(128,128,128,0.2);
+	border-style: solid;
+	padding: 0.25rem;
+	border-width: 1px;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	width: fit-content;
+}
+.form-input-container:focus-within {
+	border-color: black;
+}
+.form-input-container input {
+	border: none;
+}
+.form-input-container input:focus {
+	border: none;
+}
+.form-input-container label, .name-tag-preview-label {
+	font-size: 0.9rem;
+}
+.form-input-container input {
+	font-size: 1.1rem;
+}
