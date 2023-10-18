@@ -48,7 +48,7 @@ If you are organizing an event, please help us all be less bad at pronouns. You 
 
 {{< subscribe_snarky >}}
 
-Acknowledgements will go here.
+Many thanks to [Haiting Chan](https://www.linkedin.com/in/haitingchan/) for their suggestions.
 
 
 [^cost-to-change-genders]: See, for example, Amy J. Ko's [The price of a gender transition](https://amyjko.medium.com/the-price-of-a-gender-transition-ab9d9f04c360).
