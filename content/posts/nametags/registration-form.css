@@ -43,6 +43,9 @@
 .form-input-container input {
 	border: none;
 }
+.dark .form-input-container input {
+	color: white;
+}
 .form-input-container input:focus {
 	border: none;
 }
