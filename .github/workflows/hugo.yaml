@@ -30,7 +30,7 @@ defaults:
 jobs:
   # Build job
   build:
-    if: github.repository == 'UppaJung/personal-website'
+    if: github.repository == 'UppaJung/personal-website' || github.repository == 'UppaJung/personal-website-preview'
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.116.1
