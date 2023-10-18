@@ -68,7 +68,7 @@ jobs:
 
   # Deployment job
   deploy:
-    if: github.repository == 'UppaJung/personal-website'
+    if: github.repository == 'UppaJung/personal-website' || github.repository == 'UppaJung/personal-website-preview'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
