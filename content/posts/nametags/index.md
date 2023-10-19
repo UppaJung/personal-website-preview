@@ -47,7 +47,7 @@ If you are organizing an event, please help us all be less bad at pronouns. You 
 
 ---
 
-I am grateful to [Haiting Chan](https://www.linkedin.com/in/haitingchan/) for their lessons on gender inclusion and their early feedback on this article, and [Amy J. Ko](https://amyjko.phd/) ([@amyjko@hci.social](https://hci.social/@amyjko)) for their past writings and their suggestions on this article's positioning.
+I am grateful to [Haiting Chan](https://www.linkedin.com/in/haitingchan/) for helping me be a better ally and for their early feedback on this article, and [Amy J. Ko](https://amyjko.phd/) ([@amyjko@hci.social](https://hci.social/@amyjko)) for their past writings and their suggestions on this article's positioning.
 
 {{< subscribe_snarky >}}
 
