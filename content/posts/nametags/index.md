@@ -47,9 +47,9 @@ If you are organizing an event, please help us all be less bad at pronouns. You 
 
 ---
 
-{{< subscribe_snarky >}}
+I am grateful to [Haiting Chan](https://www.linkedin.com/in/haitingchan/) for helping evolve my outlook on gender inclusion for their suggestions, and [Amy J. Ko](https://faculty.washington.edu/ajko/) ([@amyjko@hci.social](https://hci.social/@amyjko)) for their past writings and their suggestions on this article's positioning.
 
-Many thanks to [Haiting Chan](https://www.linkedin.com/in/haitingchan/) for their suggestions.
+{{< subscribe_snarky >}}
 
 [^not-to-blame]: Not to pick on the organizers of the wonderful event I attended in September 2023 that gave me the name tag I photographed. Their efforts towards gender-inclusivity had all-gender restrooms and their name tags were on par with than those of similar events.
 

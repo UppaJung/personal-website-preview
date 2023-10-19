@@ -1,7 +1,6 @@
 author: Stuart Schechter
 mainSections: posts
 linkedin_url: 'https://www.linkedin.com/in/stuart-schechter/'
-twitter_url: 'https://twitter.com/uppajung'
 mastodon_url: 'https://mastodon.social/@MildlyAggrievedScientist'
 rss_icon: true
 rss_section: posts
@@ -19,7 +18,7 @@ sidebar:
 
 homeInfoParams:
     # Title: "Stuart Schechter: Mildly-Aggrieved Scientist"
-    Content: <img src="/about/StuartsSelfieOn20230804.webp" style="width:min(10vw,10vh);display:block;margin-left:auto;margin-right:auto;"/> I'm *Stuart Schechter*, a scientist who criticizes the how scientists conduct ourselves, a security technologist who debunks security technologies, and a human-subjects researcher who isn't the best people person. This doesn't make me very popular.<br/>My preferred pronouns are he/him but I also welcome they.
+    Content: <img src="/about/StuartsSelfieOn20230804.webp" style="width:min(10vw,10vh);display:block;margin-left:auto;margin-right:auto;"/> I'm *Stuart Schechter*, a scientist who criticizes the how scientists conduct ourselves, a security technologist who debunks security technologies, and a human-subjects researcher who isn't the best people person. This doesn't make me very popular.<br/><br/>My preferred pronouns are he/him but I also welcome they.
 
 socialIcons:
   - name: "mastodon"
@@ -28,12 +27,10 @@ socialIcons:
     url: "https://github.com/uppajung"
   - name: "linkedin"
     url: "https://www.linkedin.com/in/stuart-schechter/"
-  - name: "twitter"
-    url: "https://twitter.com/uppajung"
 
 # ShareButtons:  ["linkedin", "twitter","reddit","facebook","whatsapp","telegram"]
 ShowShareButtons: true
-ShareButtons:  ["linkedin", "twitter", "reddit", "facebook"]
+ShareButtons:  ["linkedin", "reddit", "facebook"]
 
 editPost:
     URL: "https://github.com/UppaJung/personal-website/tree/main/content"
