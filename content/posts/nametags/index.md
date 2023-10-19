@@ -1,7 +1,7 @@
 ---
 title: Pronouns and Inclusive Event Design
-date: 2023-10-18
-lastmod: 2023-10-18
+date: 2023-10-19
+lastmod: 2023-10-19
 ---
 
 Getting people's pronouns right is a struggle when attending large events, even when those running and attending the events care about gender inclusivity. When I watch others struggle with pronouns at these events, it's both a relief that I'm not alone and a disappointment that we are *all* so bad at this.
@@ -33,13 +33,13 @@ The following sample registration form and name tag preview illustrate one way t
 
 Observe that this design differentiates pronouns that attendees *prefer* from those they merely *welcome*. It's default establishes a norm of accepting (welcoming) gender-neutral *they* pronouns even when one prefers a gendered pronoun.
 
-The nudge towards inclusive choices in the registration form is intended to make exception cases relatively rare, at least at progressive events. Most cis-gendered persons will have little reason to reject the default, as they are not harmed by gender-neutral pronouns—most of us are not even present to hear ourselves referred to in the third person.[^offended] Attendees who have gone through all that is required to change their gender presentation[^cost-to-change-genders] and prefer to have that gender acknowledged can still signal a preference for gendered pronouns. Hopefully, most will also welcome a default that bends the arc of society towards gender inclusivity, or not mind that their preference for gendered pronouns exclusively now marks them as exceptional.[^edit-out-only]
+The nudge towards inclusive choices in the registration form is meant to make exception cases relatively rare, at least at progressive events. Most cis-gendered persons will have little reason to reject the default, as they are not harmed by gender-neutral pronouns—most of us are not even present to hear ourselves referred to in the third person.[^offended] Attendees who have gone through all that is required to change their gender presentation[^cost-to-change-genders] and prefer to have that gender acknowledged can still signal a preference for gendered pronouns. Hopefully, most will also welcome a default that bends the arc of society towards gender inclusivity, or not mind that their preference for gendered pronouns exclusively now marks them as exceptional.[^edit-out-only]
 
-This design addresses our cognitive limits by exceptions to the norm easy to spot: all exceptions end with a boldface '**only**'. You can safely use 'they' pronouns for everyone else, and the exception cases are less likely to be members of marginalized populations. Using preferred pronouns becomes less of a cognitive necessity, and more of a signal of familiarity or intimacy that you can arrive at your own pace.
+This design addresses our cognitive limits by making the exceptions to the new norm easy to spot: all exceptions end with a boldface '**only**'. You can safely use 'they' pronouns for everyone else, and the exception cases are less likely to be members of marginalized populations. Using pronouns that convey more information than *they* becomes less of a cognitive necessity, and more of a signal of familiarity or intimacy that you can arrive at your own pace.
 
-The registration form design also makes transparent how the information you provide to event organizers on the registration form will be shared with other attendees when you don your name tag. If you don't like anything on your name tag, you can edit it.[^name-tag-abuse] For example, if you feel obligated to register for the event with the name on your government ID, but that name does not match your identity at the event, you can change what appears on the name tag.
+The registration form design also makes transparent how the information you provide to event organizers on the registration form will be shared with other attendees when you don your name tag. If you don't like anything on your name tag, you can edit it.[^name-tag-abuse] For example, if you feel obligated to register for the event with the name on your government ID, but that name does not match your identity at the event, you can change what appears on the name tag. (Try it!)
 
-In designing the name tag generated from the registration form, I tried to make it as easy as possible for a viewer to find and read the name the wearer wants to be addressed by. The name appears at the top and the font for the name is larger than all the other information on the name tag. The font size helps those with limited vision.[^scales-down] The placement reduces the distance one needs to look down from the wearer's face, the time required, and the awkwardness that increases the further down one needs to look. Event organizers should always place event branding at the bottom of name tags, lest they signal that they value their event's brand identity above attendees' ability to know whom they are talking to.
+The name tag design design prioritizes the ease with which a viewer can find and read the name that the wearer prefers to be addressed by. That name is given a larger font than all the other text on the name tag and appears at the top. The font size helps those with limited vision.[^scales-down] The placement reduces the distance that the viewer needs to look down from the wearer's face, the time required, and the awkwardness that we all experience the further down the viewer needs to look. (Nice shoes!) Event organizers should always place event branding at the bottom of name tags, lest they signal that their event's brand identity is more important to them than attendees' ability to know whom they are talking to.
 
 If you care about attendees being able to read each others' names, may I also suggest that you provide adjustable lanyards. At the last event I was at, none of the name tags were visible at meals because the lanyards fell below the table height. When providing the lanyards, event staff should offer help adjusting them to all attendees. Your attendees may be overwhelmed by their new environment, and may not realize the importance of making their name tag easier to read unless offered help. Lastly, when using lanyards, always print name tags on both sides so that the contents are hidden when the name tag flips around.
 
@@ -47,7 +47,7 @@ If you are organizing an event, please help us all be less bad at pronouns. You 
 
 ---
 
-I am grateful to [Haiting Chan](https://www.linkedin.com/in/haitingchan/) for helping evolve my outlook on gender inclusion for their suggestions, and [Amy J. Ko](https://faculty.washington.edu/ajko/) ([@amyjko@hci.social](https://hci.social/@amyjko)) for their past writings and their suggestions on this article's positioning.
+I am grateful to [Haiting Chan](https://www.linkedin.com/in/haitingchan/) for their lessons on gender inclusion and their early feedback on this article, and [Amy J. Ko](https://amyjko.phd/) ([@amyjko@hci.social](https://hci.social/@amyjko)) for their past writings and their suggestions on this article's positioning.
 
 {{< subscribe_snarky >}}
 
