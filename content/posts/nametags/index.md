@@ -6,7 +6,7 @@ lastmod: 2023-10-18
 
 Getting people's pronouns right is a struggle when attending large events, even when those running and attending the events care about gender inclusivity. When I watch others struggle with pronouns at these events, it's both a relief that I'm not alone and a disappointment that we are *all* so bad at this.
 
-Even in 2023, most events I attend don't even have pronouns on name tags. Even when they do, we can rarely read someone's third-person pronouns off their name tag when we need them—we use those third-person pronouns when speaking about them to others. Even if the person we are speaking about is present, they would not be who we are looking at when we speak.
+Even in 2023, most events I attend don't even have pronouns on name tags.[^not-to-blame] Even when they do, we can rarely read someone's third-person pronouns off their name tag when we need them—we use those third-person pronouns when speaking about them to others. Even if the person we are speaking about is present, they would not be who we are looking at when we speak.
 
 Attendees normally cope by using gendered pronouns by default and trying to remember the *exceptions*. Unfortunately, the *exceptions* we are likely to use the wrong pronouns for are the historically-marginalized groups we are supposed to be trying to do a better job of including.
 
@@ -14,6 +14,7 @@ Attendees normally cope by using gendered pronouns by default and trying to reme
 <img src="./TSNameTag.jpg" style="max-width: min(80vw,30vh); display: block; margin-left: auto; margin-right: auto;" alt="A name tag with the conference logo taking up the top half, then the author's first name (Stuart) on one small line, the family name on the next line (Schechter), and institution (Harvard) on the third line. At the bottom is another branding logo."/>
 <caption>A name tag from the most recent event I attended.</caption>
 </figure>
+
 
 Adopting gender-neutral third-party pronouns as the norm would be more inclusive, but I've yet to attend an event that achieved this.
 
@@ -50,6 +51,7 @@ If you are organizing an event, please help us all be less bad at pronouns. You 
 
 Many thanks to [Haiting Chan](https://www.linkedin.com/in/haitingchan/) for their suggestions.
 
+[^not-to-blame]: Not to pick on the organizers of the wonderful event I attended in September 2023 that gave me the name tag I photographed. Their efforts towards gender-inclusivity had all-gender restrooms and their name tags were on par with than those of similar events.
 
 [^cost-to-change-genders]: See, for example, Amy J. Ko's [The price of a gender transition](https://amyjko.medium.com/the-price-of-a-gender-transition-ab9d9f04c360).
 
