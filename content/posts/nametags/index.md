@@ -25,7 +25,7 @@ To make the more inclusive norm safe, we need to update event registrations and 
 2. encourage attendees to welcome gender-neutral pronouns *by default*
 3. allow attendees to opt out of these defaults (so nobody need object)
 
-The following sample registration and name tag illustrate one way to do this. Try it yourself!
+The following sample registration form and name tag preview illustrate one way to do this. Try it yourself!
 
 <link rel="stylesheet" href="./registration-form.css">
 <div data-registration-form-here="true" class="registration-and-name-tag-container"></div>
