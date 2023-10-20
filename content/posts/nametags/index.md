@@ -18,7 +18,8 @@ Attendees normally cope by using gendered pronouns by default and trying to reme
 
 Adopting gender-neutral third-party pronouns as the norm would be more inclusive, but I've yet to attend an event that achieved this.
 
-Changing norms requires affordances that make the new norm feel safe. If attendees fear they are more likely to offend by calling someone 'they' than guessing the correct gendered pronoun, they'll keep using gendered pronouns by default.
+## How to change norms
+Changing attendees' behavior requires affordances to make the desired behavior feel safe. If attendees fear they are more likely to offend by calling someone 'they' than guessing the correct gendered pronoun, they'll keep using gendered pronouns by default.
 
 To make the more inclusive norm safe, we need to update event registrations and name tags to:
 1. include pronouns on name tags and other materials *by default*
@@ -31,23 +32,38 @@ The following sample registration form and name tag preview illustrate one way t
 <div data-registration-form-here="true" class="registration-and-name-tag-container"></div>
 <script src="./registration-pronouns.js"></script>
 
-This design gives attendees the ability to choose both pronouns they *prefer* and those they merely *welcome*, enabling a norm in which attendees can accept gender-neutral *they* pronouns even when they prefer gender-binary pronouns.
+## Design goals
+### Encouraging adoption of inclusive choices
 
-The default of welcoming gender-neutral pronouns, with its accompanying justification, nudges attendees towards towards inclusive choices, so as to make exception cases relatively rare at events where inclusion is valued. Most cis-gendered persons will have little reason to reject the default, as they are not harmed by gender-neutral pronouns—most of us are not even present to hear ourselves referred to in the third person.[^offended] Attendees who have gone through all that is required to change their gender presentation[^cost-to-change-genders] and prefer to have that gender acknowledged can still signal a preference for gendered pronouns. Hopefully, most will also welcome a default that bends the arc of society towards gender inclusivity, or not mind that their preference for gendered pronouns exclusively now marks them as exceptional.[^edit-out-only]
+The above design gives attendees the ability to choose both pronouns they *prefer* and those they merely *welcome*, enabling a norm in which attendees can accept gender-neutral *they* pronouns while still expressing preferences for gender-binary pronouns.
 
-The pronouns line of all exceptions to the norm end with a boldface '**only**', making them easy to spot. If you find the cognitive task of tracking pronouns difficult, you can safely use 'they' pronouns for everyone else. Using pronouns other than *they* becomes less of a cognitive necessity, and more of a signal of familiarity or intimacy that you can arrive at your own pace.
+The default of welcoming gender-neutral pronouns, with its accompanying justification, encourages attendees to opt for inclusion. At events where most attendees value inclusion, this can help make exception cases (rejecting *they* pronouns) relatively rare. Most cis-gendered persons will have little reason to reject the default, as they are not harmed by gender-neutral pronouns—most of us are not even present to hear ourselves referred to in the third person.[^offended] Attendees who have gone through all that is required to change their gender presentation[^cost-to-change-genders] and prefer to have that gender acknowledged can still signal a preference for gendered pronouns. Hopefully, most will also welcome a default that bends the arc of society towards gender inclusivity, or not mind that their preference for gendered pronouns exclusively now marks them as exceptional.[^edit-out-only]
+
+### Cognitive inclusion and safety
+
+The pronouns line of all exceptions to the norm end with a boldface '**only**', making them easy to spot.[^no-only-for-they] If you find the cognitive task of tracking pronouns difficult, you can safely use 'they' pronouns for everyone else. Using pronouns other than *they* becomes less of a cognitive necessity, and more of a signal of familiarity or intimacy that you can arrive at your own pace.
+
+### Privacy and control
 
 The registration form makes transparent how the information you provide to event organizers on the registration form will be shared with other attendees when you don your name tag. If you don't like anything on your name tag, you can edit it.[^name-tag-abuse] For example, if you feel obligated to register for the event with the name on your government ID, but that name does not match your identity at the event, you can change what appears on the name tag. (Try it!)
+
+### Functionality
 
 The design of the name tag prioritizes the ease with which a viewer can find and read the name that the wearer prefers to be addressed by. That name is given a larger font than all the other text on the name tag and appears at the top. The font size helps those with limited vision.[^scales-down] The placement reduces the distance that the viewer needs to look down from the wearer's face, the time required, and the awkwardness that we all experience the further down the viewer needs to look. (Nice shoes!) Event organizers should always place event branding at the bottom of name tags, lest they signal that their event's brand identity is more important to them than attendees' ability to know whom they are talking to.
 
 If you care about attendees being able to read each others' names, I also suggest that you provide adjustable lanyards. At the last event I was at, none of the name tags were visible at meals because the lanyards fell below the table height. When providing the lanyards, event staff should offer help adjusting them to all attendees. Your attendees may be overwhelmed by their new environment, and may not realize the importance of making their name tag easier to read unless offered help. Lastly, when using lanyards, always print name tags on both sides so that the contents are hidden when the name tag flips around.
 
-If you are organizing an event, please help us all be less bad at pronouns. You are welcome to borrow as much as you like from the above design. It's [open source](https://github.com/UppaJung/registration-pronouns).
+## You can help!
+
+If you are organizing an event, please help us all be less bad at pronouns. You are welcome to borrow as much as you like from the above design. It's [open source](https://github.com/UppaJung/registration-pronouns) and I welcome contributions.
 
 ---
 
-I am grateful to [Haiting Chan](https://www.linkedin.com/in/haitingchan/) for helping me be a better ally and for their early feedback on this article, and [Amy J. Ko](https://amyjko.phd/) ([@amyjko@hci.social](https://hci.social/@amyjko)) for their past writings and their suggestions on this article's positioning.
+I am grateful for help and [author-assistive reviews](https://www.stuartschechter.org/posts/scoreless-peer-review/) from (in chronological review order):
+
+- [Haiting Chan](https://www.linkedin.com/in/haitingchan/), for helping me be a better ally and for providing great early feedback,
+- [Amy J. Ko](https://amyjko.phd/) ([@amyjko@hci.social](https://hci.social/@amyjko)) for her past writings and suggestions on this article's positioning, and
+- [Jan Dittrich](https://fordes.de/) ([@simulo@hci.social](https://hci.social/@simulo)) for changes in ordering and styling to so that visual design of the illustration form and name tag better match their functional goals.
 
 {{< subscribe_snarky >}}
 
@@ -59,6 +75,8 @@ I am grateful to [Haiting Chan](https://www.linkedin.com/in/haitingchan/) for he
 [^offended]: This article is written for those who want to promote gender inclusivity and so I will not address the needs of those whose identities are offended by the very concept of chosen pronouns here. I have yet to encounter anyone who was 'against pronouns' whose position was not a dog whistle for being against gender inclusivity.
 
 [^edit-out-only]: Those who prefer not to have their pronouns followed by **only** can edit it out manually.
+
+[^no-only-for-they]: [Author-assistive](https://www.stuartschechter.org/posts/scoreless-peer-review/) reviewer [Jan Dittrich](https://fordes.de/) ([@simulo@hci.social](https://hci.social/@simulo)) suggested that some attendees who prefer *they* pronouns may feel left out because the radio buttons do not give them an option to add the boldface **only**. (They can still do so manually by editing their name tag.) There is a trade-off here. Indeed, some who prefer using *they* pronouns may feel excluded by the lack of a radio option to add **only** following *they* pronouns. However, attendees are more likely to adopt the new norms and address others with *they* pronouns if there are fewer exceptions to remember, and their sense of the number of exceptions they'll need to remember will be influenced by the prevalence of **only** on name tags.
 
 [^name-tag-abuse]: As I work in security I am sure to have 'clever' people point out that, yes, attendees could abuse the freedom to edit the entirety of the text on their name tag to include inappropriate content or to impersonate others. Fortunately, most people will stick with the defaults and the rest can be reviewed for abuse by event staff. Reviewing the exceptions is work, but likely worthwhile work, as it can alert organizers to attendees with unanticipated needs.
 
