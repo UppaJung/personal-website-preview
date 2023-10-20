@@ -32,22 +32,23 @@ The following sample registration form and name tag preview illustrate one way t
 <div data-registration-form-here="true" class="registration-and-name-tag-container"></div>
 <script src="./registration-pronouns.js"></script>
 
-## Design goals
-### Encouraging adoption of inclusive choices
+## Goals of this design
+
+### Encourage attendees to welcome they pronouns for themselves
 
 The above design gives attendees the ability to choose both pronouns they *prefer* and those they merely *welcome*, enabling a norm in which attendees can accept gender-neutral *they* pronouns while still expressing preferences for gender-binary pronouns.
 
 The default of welcoming gender-neutral pronouns, with its accompanying justification, encourages attendees to opt for inclusion. At events where most attendees value inclusion, this can help make exception cases (rejecting *they* pronouns) relatively rare. Most cis-gendered persons will have little reason to reject the default, as they are not harmed by gender-neutral pronouns—most of us are not even present to hear ourselves referred to in the third person.[^offended] Attendees who have gone through all that is required to change their gender presentation[^cost-to-change-genders] and prefer to have that gender acknowledged can still signal a preference for gendered pronouns. Hopefully, most will also welcome a default that bends the arc of society towards gender inclusivity, or not mind that their preference for gendered pronouns exclusively now marks them as exceptional.[^edit-out-only]
 
-### Cognitive inclusion and safety
+### Make it safe and easy to use *they* pronouns for others
 
 The pronouns line of all exceptions to the norm end with a boldface '**only**', making them easy to spot.[^no-only-for-they] If you find the cognitive task of tracking pronouns difficult, you can safely use 'they' pronouns for everyone else. Using pronouns other than *they* becomes less of a cognitive necessity, and more of a signal of familiarity or intimacy that you can arrive at your own pace.
 
-### Privacy and control
+### Give attendees privacy and control over their identity
 
 The registration form makes transparent how the information you provide to event organizers on the registration form will be shared with other attendees when you don your name tag. If you don't like anything on your name tag, you can edit it.[^name-tag-abuse] For example, if you feel obligated to register for the event with the name on your government ID, but that name does not match your identity at the event, you can change what appears on the name tag. (Try it!)
 
-### Functionality
+### Produce name tags that are readable and functional
 
 The design of the name tag prioritizes the ease with which a viewer can find and read the name that the wearer prefers to be addressed by. That name is given a larger font than all the other text on the name tag and appears at the top. The font size helps those with limited vision.[^scales-down] The placement reduces the distance that the viewer needs to look down from the wearer's face, the time required, and the awkwardness that we all experience the further down the viewer needs to look. (Nice shoes!) Event organizers should always place event branding at the bottom of name tags, lest they signal that their event's brand identity is more important to them than attendees' ability to know whom they are talking to.
 
