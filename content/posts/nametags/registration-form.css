@@ -57,8 +57,17 @@
 }
 .form-input-container input {
 	font-size: 1.1rem;
+	width: 9cm;
+}
+#nameTextInputElement {
+	width: 7cm;
+}
+#preferredThirdPersonPronounTextInputElement {
+	width: 5cm;
 }
 .name-tag-container {
 	background-color: rgba(64, 0, 0, 1);
-	padding: 0.1rem;
+	padding: 0.15rem;
+	width: fit-content;
+	height: fit-content;
 }

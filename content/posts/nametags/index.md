@@ -31,7 +31,7 @@ The following sample registration form and name tag preview illustrate one way t
 <div data-registration-form-here="true" class="registration-and-name-tag-container"></div>
 <script src="./registration-pronouns.js"></script>
 
-This design gives attendees the ability to choose both pronouns they *prefer* and those they merely *welcome*, enabling a norm in which attendees can accept gender-neutral *they* pronouns even when they prefer a gender-binary pronoun.
+This design gives attendees the ability to choose both pronouns they *prefer* and those they merely *welcome*, enabling a norm in which attendees can accept gender-neutral *they* pronouns even when they prefer gender-binary pronouns.
 
 The default of welcoming gender-neutral pronouns, with its accompanying justification, nudges attendees towards towards inclusive choices, so as to make exception cases relatively rare at events where inclusion is valued. Most cis-gendered persons will have little reason to reject the default, as they are not harmed by gender-neutral pronouns—most of us are not even present to hear ourselves referred to in the third person.[^offended] Attendees who have gone through all that is required to change their gender presentation[^cost-to-change-genders] and prefer to have that gender acknowledged can still signal a preference for gendered pronouns. Hopefully, most will also welcome a default that bends the arc of society towards gender inclusivity, or not mind that their preference for gendered pronouns exclusively now marks them as exceptional.[^edit-out-only]
 
