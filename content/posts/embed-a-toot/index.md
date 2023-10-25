@@ -60,6 +60,33 @@ Please try out [Embed-a-Toot](https://uppajung.github.io/embed-a-toot/).
 
 Please submit issues, PRs, and new styles via [GitHub](https://github.com/UppaJung/embed-a-toot/).
 
+<article class="fediverse-status" data-mastodon-host="mastodon.social" data-status="111296742716259258" data-created-by="https://github.com/UppaJung/embed-a-toot;v1.0.0;2023-10-25T18:40:41.829Z" data-update-counters data-update-content>
+	<header>
+		<a href="https://mastodon.social/@MildlyAggrievedScientist" rel="external nofollow" title="view profile at @MildlyAggrievedScientist@mastodon.social" class="authors-avatar-link">
+			<picture class="authors-avatar">
+				<source srcset="https://files.mastodon.social/accounts/avatars/109/327/432/472/982/016/original/e408c237468b2bf2.webp" media="(prefers-reduced-motion: no-preference)"/>
+				<img src="https://files.mastodon.social/accounts/avatars/109/327/432/472/982/016/original/e408c237468b2bf2.webp" alt="@MildlyAggrievedScientist@mastodon.social avatar" class="authors-avatar"/>
+			</picture>
+		</a>
+		<div class="post-author">
+			<span class="post-authors-display-name">Stuart Schechter</span>
+				<a href="https://mastodon.social/@MildlyAggrievedScientist" title="@MildlyAggrievedScientist@mastodon.social" rel="external nofollow" class="post-authors-fediverse-identity">
+					<span class="at-symbol username-at-symbol">@</span>
+					<span class="post-authors-fediverse-username">MildlyAggrievedScientist</span>
+					<span class="at-symbol server-at-symbol">@</span><span class="post-authors-fediverse-server">mastodon.social</span>
+				</a>
+		</div>
+	</header>
+	<main><p>Mastodon's iframe-based approach for embedding posts ("toots") on other websites is inefficient, inflexible, and insecure. Fortunately, the Mastodon API lets us build better options.</p><p><a translate="no" rel="nofollow noopener noreferrer" href="https://www.stuartschechter.org/posts/embed-a-toot/"><span class="invisible">https://www.</span><span class="ellipsis">stuartschechter.org/posts/embe</span><span class="invisible">d-a-toot/</span></a></p></main>
+	<footer>
+		<time datetime="2023-10-25T17:05:20.453Z" class="post-time">Oct 25, 2023, 1:05 PM</time>
+		<time hidden datetime="" class="edit-time">edited at </time>
+		<a href="https://mastodon.social/@MildlyAggrievedScientist/111296742716259258/favourites" title="favourites" class="counter-favourites">0</a>
+		<a href="https://mastodon.social/@MildlyAggrievedScientist/111296742716259258/reblogs" title="reblogs" class="counter-reblogs">0</a>
+		<a href="https://mastodon.social/@MildlyAggrievedScientist/111296742716259258" title="replies" class="counter-replies">0</a>
+	</footer>
+</article>
+
 [^iframe-security]: The `iframe` settings allow scripts to run in your hosting page's origin, to take over the full screen, and to allow popups. The embed sets the iframe's `allowfullscreen` attribute and the iframe sandbox attribute's `allow-scripts`, `allow-same-origin`, `allow-popups`, `allow-popups-to-escape-sandbox`, and `allow-forms` settings.
 
 [^big-tech]: If you embed social media content from big tech you will be running a script that allows the provider to track your users.
