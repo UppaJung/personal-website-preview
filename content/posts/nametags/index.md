@@ -46,7 +46,7 @@ The pronouns line of all exceptions to the norm end with a boldface '**only**', 
 
 ### Give attendees privacy and control over their identity
 
-The registration form makes transparent how the information you provide to event organizers on the registration form will be shared with other attendees when you don your name tag. If you don't like anything on your name tag, you can edit it.[^name-tag-abuse] For example, if you feel obligated to register for the event with the name on your government ID, but that name does not match your identity at the event, you can change what appears on the name tag. (Try it!)
+The registration form makes transparent how the information you provide to event organizers on the registration form will be shared with other attendees when you don your name tag. If you don't like anything on your name tag, you can edit it.[^name-tag-abuse] For example, if you feel obligated to register for the event with the name on your government ID, but that name does not match your identity at the event, you can change what appears on the name tag.[^not-safe-revealing-pronouns] (Try it!)
 
 ### Produce name tags that are readable and functional
 
@@ -80,5 +80,7 @@ I am grateful for help and [author-assistive reviews](https://www.stuartschechte
 [^no-only-for-they]: [Author-assistive](https://www.stuartschechter.org/posts/scoreless-peer-review/) reviewer [Jan Dittrich](https://fordes.de/) ([@simulo@hci.social](https://hci.social/@simulo)) suggested that some attendees who prefer *they* pronouns may feel left out because the radio buttons do not give them an option to add the boldface **only**. (They can still do so manually by editing their name tag.) There is a trade-off here. Indeed, some who prefer using *they* pronouns may feel excluded by the lack of a radio option to add **only** following *they* pronouns. However, attendees are more likely to adopt the new norms and address others with *they* pronouns if there are fewer exceptions to remember, and their sense of the number of exceptions they'll need to remember will be influenced by the prevalence of **only** on name tags.
 
 [^name-tag-abuse]: As I work in security I am sure to have 'clever' people point out that, yes, attendees could abuse the freedom to edit the entirety of the text on their name tag to include inappropriate content or to impersonate others. Fortunately, most people will stick with the defaults and the rest can be reviewed for abuse by event staff. Reviewing the exceptions is work, but likely worthwhile work, as it can alert organizers to attendees with unanticipated needs.
+
+[^not-safe-revealing-pronouns]: Those who feel unsafe revealing their preferred pronouns at the event can modify their name tag to show different pronouns or remove pronouns entirely. That said, it is important to acknowledge that some may still feel less safe than if events did not encourage attendees to reveal their preferred pronouns.
 
 [^scales-down]: Fonts automatically scale down to accommodate longer names.
