@@ -11,8 +11,8 @@ Even in 2023, most events I attend don't even have pronouns on name tags.[^not-t
 Attendees normally cope by using gendered pronouns by default and trying to remember the *exceptions*. Unfortunately, the *exceptions* we are likely to use the wrong pronouns for are the historically-marginalized groups we are supposed to be trying to do a better job of including.
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
-<img src="./TSNameTag.jpg" style="max-width: min(80vw,30vh); display: block; margin-left: auto; margin-right: auto;" alt="A name tag with the conference logo taking up the top half, then the author's first name (Stuart) on one small line, the family name on the next line (Schechter), and institution (Harvard) on the third line. At the bottom is another branding logo."/>
-<caption>A name tag from the most recent event I attended.</caption>
+<img src="./Name-Tag-From-2023-09.webp" style="max-width: min(80vw,30vh); display: block; margin-left: auto; margin-right: auto;" alt="A name tag with the conference logo taking up the top half, then the author's first name (Stuart) on one small line, the family name on the next line (Schechter), and institution (Harvard) on the third line. At the bottom is another branding logo."/>
+<caption>A name tag from an event I attended September 2023. (event anonymized)</caption>
 </figure>
 
 

@@ -1,0 +1,13 @@
+<svg id="nameTagSvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" style="display: block; width: 9cm; height: 9cm; font-family: sans-serif; margin: 0; padding:0; background-color: white;">
+	<text id="nameTagLine1SvgText" dominant-baseline="middle" text-anchor="middle" x="4.5" y="1.85" font-size="1.75pt" style="font-weight: bold;"><tspan>Stuart</tspan></text>
+	<text id="nameTagLine2SvgText" dominant-baseline="middle" text-anchor="middle" x="4.5" y="3.1" font-size="0.525pt" style="font-weight: bold;"><tspan>Schechter</tspan></text>
+	<text id="nameTagLine3SvgText" dominant-baseline="middle" text-anchor="middle" x="4.5" y="4.35" font-size="0.525pt"><tspan>Harvard</tspan></text>
+	<text id="nameTagLine4SvgText" dominant-baseline="middle" text-anchor="middle" x="4.5" y="5.5" font-size="0.525pt"><tspan>he/him </tspan><tspan style="font-style: italic;">or they</tspan><tspan></tspan></text>
+	<rect x="0" y="6.01" height="3" width="9" fill="rgba(64, 0, 0, 1)"></rect>
+	<text id="logoPlaceholder1" dominant-baseline="middle" text-anchor="middle" x="4.5" y="7.3" font-size="0.525pt" style="font-weight: bold; fill: white;">
+		<tspan>Event Branding</tspan>
+	</text>
+	<text id="logoPlaceholder2" dominant-baseline="middle" text-anchor="middle" x="4.5" y="8.1" font-size="0.525pt" style="font-weight: bold; fill: white;">
+		<tspan>Belongs Down Here</tspan>
+	</text>
+</svg>
